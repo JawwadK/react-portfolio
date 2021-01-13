@@ -1,10 +1,10 @@
 let resumeData = {
     "imagebaseurl":"",
     "name": "Jawwad",
-    "role": "Full Stack Developer",
-    "linkedinId":"Your ID",
-    "skypeid": "Your skypeid",
-    "roleDescription:": "I like to learn stuff",
+    "role": "Technology Analyst/Software Dev",
+    "linkedinId":"JawwadKhan77",
+    "githubId": "JawwadK",
+    "roleDescription:": "I like to learning stuff",
     "socialLinks":[
         {
             "name":"linkedin",
@@ -13,32 +13,25 @@ let resumeData = {
         },
         {
             "name":"github",
-            "url":"http://github.com/jawwadk",
-            "classname":"fa fa-github",
+            "url":"https://github.com/jawwadk",
+            "className":"fa fa-github",
         },
         {
-            "name":"skype",
-            "url":"",
-            "classname":"fa fa-twitter"
+            "name":"twitter",
+            "url":"https://twitter.com/iwdominatelol",
+            "className":"fa fa-twitter"
         }
     ],
-    "aboutme":"I am a cool guy *dabs*",
+    "aboutme":"3rd Year Computer Science student with an interest in AI and Cybersecurity, seeking internships for Summer 2021",
     "address":"Canada",
-    "website":"google.com",
+    "website":"megamountain.ml",
     "education":[
         {
             "UniversityName":"Ryerson University",
             "specialization": "Computer Science",
             "MonthOfPassing":"June",
             "YearOfPassing":"2023",
-            "Achievements":"Some Achievements"
-        },
-        {
-            "UniversityName":"Some Uni",
-            "specialization":"Yep",
-            "MonthOfPassing":"Jan",
-            "YearOfPassing":"2030",
-            "Achievements":"Somet Achievements"
+            "Achievements":"GPA: 3.75, Dean's List Member 2018-Present"
         }
     ],
     "work":[
