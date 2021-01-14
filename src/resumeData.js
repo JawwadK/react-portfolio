@@ -2,8 +2,10 @@ let resumeData = {
     "imagebaseurl":"",
     "name": "Jawwad",
     "role": "Technology Analyst/Software Dev",
+    "domainExplanation":"Since its bound to be a question, I'll answer it here. Long story short, I forgot to renew my old domain and since my old domain seemed very plain (JawwadKhan.tk btw), I decided for a reinvent and made this whole website out of scratch as a winter project.",
     "linkedinId":"JawwadKhan77",
     "githubId": "JawwadK",
+    "email":"jawwad.a.khan@ryerson.ca",
     "roleDescription:": "I like to learning stuff",
     "socialLinks":[
         {
@@ -15,14 +17,14 @@ let resumeData = {
             "name":"github",
             "url":"https://github.com/jawwadk",
             "className":"fa fa-github fa-2x",
-        },
+        }/*
         {
             "name":"twitter",
             "url":"https://twitter.com/iwdominatelol",
             "className":"fa fa-twitter fa-2x"
-        }
+        }*/
     ],
-    "aboutme":"Howdy! I'm just your friendly neighbourhod Computer Science student interested in AI. You might catch me beating up some thugs in the back alley of a Denny's(thats a joke), when I'm not busy saving the day I'm reading up on books that pique my interest (mostly classic literature and science fiction). Did I mention I'm seeking internships for Summer 2021? Below is my contact info, lets get a coffee and connect.",
+    "aboutme":"Howdy! I'm just your friendly neighbourhod Computer Science student interested in AI. When I'm not busy playing video games or music, I'm reading up on books that pique my interest (mostly classic literature and science fiction). Did I mention I'm seeking internships for Summer 2021? Look down below to find some other stuff that might interest you about me.",
     "address":"Toronto, Canada",
     "resumeLink":"pdfs/Resume_Jawwad_Khan.pdf",
     "resumeIconClassName":"fa fa-file-o fa-3x",
@@ -47,15 +49,16 @@ let resumeData = {
         {
             "CompanyName":"Avasta Incorporated",
             "specialization":"Data Analyst Intern",
-            "MonthOfLeaving":"September",
+            "MonthOfLeaving":"September ",
             "YearOfLeaving":"2020",
-            "Acievements":"Introduced new workplace software for increased productivity and integration into Microsoft Office Suite, performed data cleaning, analysis and data visualization techniques on large scale datasheets(10k rows +) provided by clients"
+            "Achievements":"Introduced workplace software for increased productivity, constructed guidelines and guides aimed for teaching new recruits, performed data cleaning, analysis and data visualization techniques on large scale datasheets(10k rows +) provided by clients"
         }
     ],
     "skillsDescription":"Some skills of mine",
     "skills":[
         {
-            "skillname":"HTML5"
+            "skillname":"HTML5",
+            "strength": 95
         },
         {
             "skillname":"CSS"
@@ -70,10 +73,10 @@ let resumeData = {
             "skillname":"ReactJS"
         },
         {
-            "skillname":"Bash/shell"
+            "skillname":"Bash"
         },
         {
-            "skillname":"C/C++"
+            "skillname":"C"
         },
         {
             "skillname":"Java"
@@ -87,7 +90,7 @@ let resumeData = {
         },
         {
             "name":"Intro to Material UI",
-            "description":"Made using React and Laravel",
+            "description":"Informatic website showing capabilities of Material UI using React and Laravel",
             "imgurl":"images/portfolio/computer1.jpg"
         },
         {
@@ -96,19 +99,19 @@ let resumeData = {
             "imgurl":"images/portfolio/mountain2.jpg"
         },
         {
-            "name":"",
-            "description":"mobileapp",
+            "name":"Pollmaker",
+            "description":"Survey making app using Django and Bootstrap, can view surveys graphically using admin account",
             "imgurl":"images/portfolio/mountain3.jpg"
         }
     ],
     "testimonials":[
         {
-            "description":"Sample testimonial",
-            "name":"Some technical thing"
+            "description":"Jawwad has contributed above and beyond what was expected of his role. He was an invaluable member of the Avasta team in the short time we had him, and provided us with tools and guidelines we never would have considered.",
+            "name":"Edgar Baum"
         },
         {
-            "description":"Sample testimonial2",
-            "name":"Some technical thing"
+            "description":"Jawwad's diligence and punctuality have been greatly appreaciated by us at the FreshCo Family for years now. Our stores customer service reviews have bloomed partially thanks to his excellent customer service skills.",
+            "name":"Mike DelleMonache"
         }
     ]
 }

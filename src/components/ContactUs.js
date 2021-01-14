@@ -7,7 +7,7 @@ export default class Contactus extends Component {
                 <div className="row section-head">
                     <div className="ten columns">
                         <p className="lead">
-                            Feel free to contact me for anything below
+                            Below is my contact info, lets get a coffee and connect.
                         </p>
                     </div>
                 </div>

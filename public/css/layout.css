@@ -350,6 +350,36 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
+.javascript {
+   width: 70%;
+   -moz-animation: javascript 2s ease;
+   -webkit-animation: javascript 2s ease;
+}
+.python {
+   width: 80%;
+   -moz-animation: python 2s ease;
+   -webkit-animation: python 2s ease;
+}
+.reactjs {
+   width: 70%;
+   -moz-animation: reactjs 2s ease;
+   -webkit-animation: reactjs 2s ease;
+}
+.bash {
+   width: 70%;
+   -moz-animation: bash 2s ease;
+   -webkit-animation: bash 2s ease;
+}
+.c {
+   width: 75%;
+   -moz-animation: c 2s ease;
+   -webkit-animation: c 2s ease;
+}
+.java {
+   width: 95%;
+   -moz-animation: java 2s ease;
+   -webkit-animation: java 2s ease;
+}
 
 @-moz-keyframes photoshop {
   0%   { width: 0px;  }
@@ -634,7 +664,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
+   background: #1F1F1F url(../images/waterfall.jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;

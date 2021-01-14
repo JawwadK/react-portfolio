@@ -12,11 +12,18 @@ export default class About extends Component{
                         }
                     </p>
                     <div className="row">
+                        <h2>Whats the deal with the domain name?</h2>
+                        <span>{resumeData.domainExplanation}</span>
+                        <br></br>
+                    </div>
+                    <div className="row">
                             <h2>Contact Details</h2>
                             <p className="address">
                                 <span>{resumeData.name}</span>
                                 <br></br>
                                 <span>{resumeData.address}</span>
+                                <br></br>
+                                <span>{resumeData.email}</span>
                             </p>
                         </div>
                     </div>
