@@ -58,7 +58,7 @@ header .banner {
 
 header .banner-text { width: 100%; }
 header .banner-text h1 {
-   font: 100px/1.1em 'opensans-bold', sans-serif;
+   font: 90px/1.1em 'opensans-bold', sans-serif;
    color: #fff;
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
@@ -179,7 +179,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { color: #00a895; }
 
 
 /* ------------------------------------------------------------------ */
@@ -188,7 +188,7 @@ ul#nav li.current a { color: #F06000; }
 
 #about {
    background: #2B2B2B;
-   padding-top: 96px;
+   padding-top: 86px;
    padding-bottom: 66px;
    overflow: hidden;
 }
@@ -346,17 +346,17 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: html5 2s ease;
 }
 .jquery {
-  	width: 50%;
+  	width: 65%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
 .javascript {
-   width: 70%;
+   width: 83%;
    -moz-animation: javascript 2s ease;
    -webkit-animation: javascript 2s ease;
 }
 .python {
-   width: 80%;
+   width: 85%;
    -moz-animation: python 2s ease;
    -webkit-animation: python 2s ease;
 }
@@ -366,7 +366,7 @@ ul#nav li.current a { color: #F06000; }
    -webkit-animation: reactjs 2s ease;
 }
 .bash {
-   width: 70%;
+   width: 80%;
    -moz-animation: bash 2s ease;
    -webkit-animation: bash 2s ease;
 }
@@ -845,7 +845,11 @@ call-to-action .button {
 #contact h4 {
    font: 16px/24px 'opensans-bold', sans-serif;
    color: #EBEEEE;
+   margin-left: 27%;
+   padding-right: 10px;
    margin-bottom: 6px;
+   text-align: left;
+   float: left;
 }
 #contact p.lead {
    font: 18px/36px 'opensans-light', sans-serif;

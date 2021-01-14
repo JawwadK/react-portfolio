@@ -24,7 +24,7 @@ let resumeData = {
             "className":"fa fa-twitter fa-2x"
         }*/
     ],
-    "aboutme":"Howdy! I'm just your friendly neighbourhod Computer Science student interested in AI. When I'm not busy playing video games or music, I'm reading up on books that pique my interest (mostly classic literature and science fiction). Did I mention I'm seeking internships for Summer 2021? Look down below to find some other stuff that might interest you about me.",
+    "aboutme":"Howdy! I'm just your friendly neighbourhod Computer Science student interested in Web Design and AI. When I'm not busy playing video games or music, I'm reading up on books that pique my interest (mostly classic literature and science fiction). Did I mention I'm seeking internships for Summer 2021? Look down below to find some other stuff that might interest you about me.",
     "address":"Toronto, Canada",
     "resumeLink":"pdfs/Resume_Jawwad_Khan.pdf",
     "resumeIconClassName":"fa fa-file-o fa-3x",
