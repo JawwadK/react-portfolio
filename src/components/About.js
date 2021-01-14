@@ -21,7 +21,8 @@ export default class About extends Component{
                         </div>
                     </div>
                     <div className="row">
-                        <h2>Learn more about me via my resume</h2>
+                        <h2>Here is my official resume</h2>
+                        <a href={resumeData.resumeLink} target=""><i class={resumeData.resumeIconClassName}></i></a>
                     </div>
             </section>
         );
