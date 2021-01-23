@@ -84,21 +84,25 @@ let resumeData = {
     ],
     "portfolio":[
         {
+            "projectLink":"https://jawwadk.github.io/pokedexProto/",
             "name":"Pokedex Proto",
             "description":"Pokedex made with PokeAPI",
             "imgurl":"images/portfolio/mountain1.jpg"
         },
         {
+            "projectLink":"http://cps530-tp.herokuapp.com/",
             "name":"Intro to Material UI",
             "description":"Informatic website showing capabilities of Material UI using React and Laravel",
             "imgurl":"images/portfolio/computer1.jpg"
         },
         {
+            "projectLink":"https://jawwadk.github.io/JawwadKhan.tk/",
             "name":"JawwadKhan.tk",
             "description":"Previous portfolio website made using HTML,CSS,JS and UIKit",
             "imgurl":"images/portfolio/mountain2.jpg"
         },
         {
+            "projectLink":"//",
             "name":"Pollmaker",
             "description":"Survey making app using Django and Bootstrap, can view surveys graphically using admin account",
             "imgurl":"images/portfolio/mountain3.jpg"
