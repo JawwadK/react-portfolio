@@ -191,6 +191,7 @@ ul#nav li.current a { color: #00a895; }
    padding-top: 86px;
    padding-bottom: 66px;
    overflow: hidden;
+   
 }
 
 #about a, #about a:visited  { color: #fff; }
@@ -204,6 +205,7 @@ ul#nav li.current a { color: #00a895; }
 #about p {
    line-height: 30px;
    color: #7A7A7A;
+   padding: 15px 20px;
 }
 
 #about .contact-details { width: 41.66667%; }
