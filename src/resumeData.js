@@ -102,7 +102,7 @@ let resumeData = {
             "imgurl":"images/portfolio/mountain2.jpg"
         },
         {
-            "projectLink":"//",
+            "projectLink":"#spaghetti",
             "name":"Pollmaker",
             "description":"Survey making app using Django and Bootstrap, can view surveys graphically using admin account",
             "imgurl":"images/portfolio/mountain3.jpg"
